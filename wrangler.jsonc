@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "yeg-catering-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "yeg-catering-db",
+			"database_id": "e6d722a4-fdb0-412b-ad86-19a9d0b38d43"
+		}
+	]
+}
